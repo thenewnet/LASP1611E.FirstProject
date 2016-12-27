@@ -1,0 +1,16 @@
+D:\A Trung\T3H\BaiGiang\LASP1611E.FirstProject\LASP1611E.FirstProject\bin\LASP1611E.FirstProject.dll.config
+D:\A Trung\T3H\BaiGiang\LASP1611E.FirstProject\LASP1611E.FirstProject\bin\LASP1611E.FirstProject.dll
+D:\A Trung\T3H\BaiGiang\LASP1611E.FirstProject\LASP1611E.FirstProject\bin\LASP1611E.FirstProject.pdb
+D:\A Trung\T3H\BaiGiang\LASP1611E.FirstProject\LASP1611E.FirstProject\obj\Debug\LASP1611E.FirstProject.csprojResolveAssemblyReference.cache
+D:\A Trung\T3H\BaiGiang\LASP1611E.FirstProject\LASP1611E.FirstProject\obj\Debug\LASP1611E.FirstProject.dll
+D:\A Trung\T3H\BaiGiang\LASP1611E.FirstProject\LASP1611E.FirstProject\obj\Debug\LASP1611E.FirstProject.pdb
+E:\ASP.NET\LASP1611E.FirstProject\LASP1611E.FirstProject\bin\LASP1611E.FirstProject.dll.config
+E:\ASP.NET\LASP1611E.FirstProject\LASP1611E.FirstProject\bin\LASP1611E.FirstProject.dll
+E:\ASP.NET\LASP1611E.FirstProject\LASP1611E.FirstProject\bin\LASP1611E.FirstProject.pdb
+E:\ASP.NET\LASP1611E.FirstProject\LASP1611E.FirstProject\obj\Debug\LASP1611E.FirstProject.csprojResolveAssemblyReference.cache
+E:\ASP.NET\LASP1611E.FirstProject\LASP1611E.FirstProject\obj\Debug\LASP1611E.FirstProject.dll
+E:\ASP.NET\LASP1611E.FirstProject\LASP1611E.FirstProject\obj\Debug\LASP1611E.FirstProject.pdb
+E:\ASP.NET\LASP1611E.FirstProject\LASP1611E.FirstProject\bin\EntityFramework.dll
+E:\ASP.NET\LASP1611E.FirstProject\LASP1611E.FirstProject\bin\EntityFramework.SqlServer.dll
+E:\ASP.NET\LASP1611E.FirstProject\LASP1611E.FirstProject\bin\EntityFramework.xml
+E:\ASP.NET\LASP1611E.FirstProject\LASP1611E.FirstProject\bin\EntityFramework.SqlServer.xml
